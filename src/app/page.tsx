@@ -9,7 +9,7 @@ export default function HomePage() {
       <Header/>
       <Herosection/>
       <section className="flex justify-between align items-center m-14 p-1">
-        <h1 className="text-xl font-bold text-center">Women</h1>
+        <h1 className="text-xl font-bold text-center">Lady</h1>
         
         <div><Image src="/Image/ladiesperfume5.jpg" alt="ladies perfume" width={300} height={300}/>
         <h1 className="text-sm font-semibold text-center m-2">Elegant</h1>
@@ -28,7 +28,7 @@ export default function HomePage() {
       </section>
 
       <section className="flex justify-between align items-center m-14 p-1">
-        <h1 className="text-2xl font-bold text-center">Men</h1>
+        <h1 className="text-xl font-bold text-center">Gents</h1>
         
         <div><Image src="/Image/gentsperfume5.jpg" alt="gents perfume" width={300} height={300}/>
         <h1 className="text-sm font-semibold text-center m-2">Coach</h1>
