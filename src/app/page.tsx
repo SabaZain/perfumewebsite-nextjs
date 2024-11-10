@@ -28,7 +28,7 @@ export default function HomePage() {
       </section>
 
       <section className="flex justify-between align items-center m-14 p-1">
-        <h1 className="text-xl font-bold text-center">Gents</h1>
+        <h1 className="text-xl font-bold text-center">Men</h1>
         
         <div><Image src="/Image/gentsperfume5.jpg" alt="gents perfume" width={300} height={300}/>
         <h1 className="text-sm font-semibold text-center m-2">Coach</h1>
